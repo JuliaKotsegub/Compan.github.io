@@ -71,7 +71,7 @@ h5 {
 
 .header {
     min-height: 740px;
-    background-image: url(../img/Rectangle.jpg);
+    background-image: url(./Rectangle.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
